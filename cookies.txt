@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+blueskytechmage.com	TRUE	/minimog	FALSE	1999999999	PHPSESSID	4gkjt8seigs0lbdah4igopj51i
+blueskytechmage.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

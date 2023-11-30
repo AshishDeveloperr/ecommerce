@@ -1,0 +1,43 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 30 Nov 2023 21:46:50 at https://blueskytechmage.com/minimog/demo_supergear_1/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://blueskytechmage.com/minimog/demo_supergear_1/ -O1 "C:\Users\pc\Downloads\Ecommerce" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:49:19	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/demo_supergear_1/https (from https://blueskytechmage.com/minimog/demo_supergear_1/)
+21:49:31	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/media/blueskytechco/pupuplogo/default/logosmall.png (from https://blueskytechmage.com/minimog/demo_supergear_1/)
+21:49:31	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/media/blueskytechco/pupupbg/default/home-bg.jpg (from https://blueskytechmage.com/minimog/demo_supergear_1/)
+21:49:39	Warning: 	Found for https://blueskytechmage.com/minimog/demo_supergear_1/wishlist/
+21:49:39	Warning: 	File has moved from https://blueskytechmage.com/minimog/demo_supergear_1/wishlist/ to https://blueskytechmage.com/minimog/demo_supergear_1/customer/account/login/referer/aHR0cHM6Ly9ibHVlc2t5dGVjaG1hZ2UuY29tL21pbmltb2cvZGVtb19zdXBlcmdlYXJfMS93aXNobGlzdC8%2C/
+21:56:51	Warning: 	Moved Permanently for https://blueskytechmage.com/minimog/demo_supergear_1/blog//?blog-layout=grid-2
+21:56:51	Warning: 	File has moved from https://blueskytechmage.com/minimog/demo_supergear_1/blog//?blog-layout=grid-2 to https://blueskytechmage.com/minimog/demo_supergear_1/blog?blog-layout=grid-2
+22:09:58	Error: 	"Error when decompressing" (-1) at link https://blueskytechmage.com/minimog/demo_supergear_1/customer (from https://blueskytechmage.com/minimog/demo_supergear_1/)
+22:10:02	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/demo_supergear_1/expresscheckout (from https://blueskytechmage.com/minimog/demo_supergear_1/)
+22:10:02	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/static/version1694364931/frontend/bluesky/bluesky_minimog_default/en_US/Blueskytechco_RokanBase/css/chosen-sprite.png (from https://blueskytechmage.com/minimog/static/version1694364931/_cache/merged/80dccbfa7e06050b2455d5cf478a09fb.min.css)
+22:10:12	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/demo_supergear_1/checkout/cart/https (from https://blueskytechmage.com/minimog/demo_supergear_1/checkout/cart/)
+22:10:12	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/demo_supergear_1/checkout/cart/shop.html (from https://blueskytechmage.com/minimog/demo_supergear_1/checkout/cart/)
+22:19:15	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/demo_supergear_1/blog/post/https (from https://blueskytechmage.com/minimog/demo_supergear_1/blog/post/as-people-move-out-of-big-cities-fashion-retail-follows)
+22:19:15	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/demo_supergear_1/blog/post/shop.html (from https://blueskytechmage.com/minimog/demo_supergear_1/blog/post/as-people-move-out-of-big-cities-fashion-retail-follows)
+22:19:19	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/demo_supergear_1/shop/https (from https://blueskytechmage.com/minimog/demo_supergear_1/shop/game-video.html)
+22:19:19	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/demo_supergear_1/shop/shop.html (from https://blueskytechmage.com/minimog/demo_supergear_1/shop/game-video.html)
+22:19:19	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/demo_supergear_1/popular-categories/https (from https://blueskytechmage.com/minimog/demo_supergear_1/popular-categories/tv-audio.html)
+22:19:19	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/demo_supergear_1/popular-categories/shop.html (from https://blueskytechmage.com/minimog/demo_supergear_1/popular-categories/tv-audio.html)
+22:24:47	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/demo_supergear_1/consumer-electronics/https (from https://blueskytechmage.com/minimog/demo_supergear_1/consumer-electronics/robot-clean.html)
+22:24:47	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/demo_supergear_1/consumer-electronics/shop.html (from https://blueskytechmage.com/minimog/demo_supergear_1/consumer-electronics/robot-clean.html)
+22:28:09	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/demo_supergear_1/music-audio-video/https (from https://blueskytechmage.com/minimog/demo_supergear_1/music-audio-video/on-ears-over-ears.html)
+22:28:09	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/demo_supergear_1/music-audio-video/shop.html (from https://blueskytechmage.com/minimog/demo_supergear_1/music-audio-video/on-ears-over-ears.html)
+22:35:16	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/demo_supergear_1/blog/category/https (from https://blueskytechmage.com/minimog/demo_supergear_1/blog/category/technology)
+22:35:16	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/demo_supergear_1/blog/category/shop.html (from https://blueskytechmage.com/minimog/demo_supergear_1/blog/category/technology)
+22:38:24	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/demo_supergear_1/cell-phones/https (from https://blueskytechmage.com/minimog/demo_supergear_1/cell-phones/smartphones.html)
+22:38:24	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/demo_supergear_1/cell-phones/shop.html (from https://blueskytechmage.com/minimog/demo_supergear_1/cell-phones/smartphones.html)
+22:39:19	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/demo_supergear_1/blog/archive/https (from https://blueskytechmage.com/minimog/demo_supergear_1/blog/archive/2022-08)
+22:39:19	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/demo_supergear_1/blog/archive/shop.html (from https://blueskytechmage.com/minimog/demo_supergear_1/blog/archive/2022-08)
+22:39:20	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/demo_supergear_1/blog/tag/https (from https://blueskytechmage.com/minimog/demo_supergear_1/blog/tag/beachwear)
+22:39:20	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/demo_supergear_1/blog/tag/shop.html (from https://blueskytechmage.com/minimog/demo_supergear_1/blog/tag/beachwear)
+22:40:36	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/demo_supergear_1/music-audio/https (from https://blueskytechmage.com/minimog/demo_supergear_1/music-audio/fitness-headphones.html)
+22:40:36	Error: 	"Not Found" (404) at link https://blueskytechmage.com/minimog/demo_supergear_1/music-audio/shop.html (from https://blueskytechmage.com/minimog/demo_supergear_1/music-audio/fitness-headphones.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 4 minutes 4 seconds : 2102 links scanned, 2071 files written (361164925 bytes overall) [77585590 bytes received at 20183 bytes/sec], 359543232 bytes transferred using HTTP compression in 1839 files, ratio 19%, 61.6 requests per connection
+(28 errors, 4 warnings, 0 messages)
