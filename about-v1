@@ -256,7 +256,7 @@
     <div class="block block-content">
 		<div class="dropdown">
 						<div id="search-form">
-																									<form class="form minisearch " id="search_mini_form" action="https://blueskytechmage.com/minimog/demo_supergear_1/catalogsearch/result/" method="get">
+																									<form class="form minisearch " id="search_mini_form" action="#" method="get">
 							<div class="form-minisearch-search-product"> 
 								<div class="form-minisearch"> 	
 									<div class="search-form"> 
